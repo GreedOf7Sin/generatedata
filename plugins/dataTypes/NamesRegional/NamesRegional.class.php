@@ -338,7 +338,23 @@ class DataType_NamesRegional extends DataTypePlugin {
 			"lastNames" => array(
 				"Kumar", "Raj", "Jain", "Khan", "Ismail", "Patel", "Singh"
 			)
+		),
+		"indonesia" => array(
+			"firstNamesFemale" => array(
+				"Angel", "Anna", "Azizah", "Bella", "Bianca", "Bonita", "Cindy", "Cinta", "Cantik", "Desi", "Dita", "Dona", "Eli", "Emilia", "Erika", "Farah", "Fika", "Fitri", "Gigi", "Gina", "Gita", "Hamidah", "Hana", "Hani", "Indah", "Intan", "Ira",
+				"Jenny", "Jasmine", "Julia", "Kamelia", "Khofifah", "Kiki", "Lala", "Lia", "Lisa", "Mia", "Mutalaliah", "Mutami", "Nadia", "Nina", "Nurul", "Olive", "Olivia", "Oki", "Patricia", "Puji", "Putri", "Queen","Quina","Quinna", "Ranti", "Rina", "Roro",
+				"Sarah", "Sekar", "Sofia", "Tantri", "Tina", "Tessa", "Uci", "Ulfa", "Umi", "Vanesa", "Vina", "Vira", "Xiaomi", "Xena", "Xyla", "Yati", "Yeni", "Yuni", "Zahra", "Zaenab", "Zubaidah"
+			),
+			"firstNamesMale" => array(
+				"Abi", "Agus", "Arif" , "Bagas", "Bambang", "Budi", "Candra", "Coki", "Condro", "Danang", "Dani", "Dono", "Edi", "Eko", "Erik", "Fajar", "Fredrik", "Frendy", "Galih", "Gilang", "Gusti", "Habibi", "Hari", "Herry", "Ibrahim", "Iqbal","Ismail",
+				"Jaka", "Joko", "Juki", "Karyono", "Kasim", "Kosim", "Leo", "Lukas", "Lukman", "Mahfud", "Mario", "Martin", "Nanda", "Niko", "Norman", "Odi", "Oka","Omar", "Pasha", "Pras", "Putra", "Qarim", "Qodar", "Qomarudin", "Raja", "Raffa", "Ridwan",
+				"Samsul", "Somad", "Surya", "Tatang", "Toto", "Tukina", "Ucok", "Umar", "Usman", "Valentino", "Viktor", "Vincent", "Wawan", "Wayan", "Wong", "Xander", "Xavier", "Xing-An", "Yahya", "Yanto", "Yunan", "Zainal", "Zaenudin", "Zulfikar"
+			),
+			"lastNames" => array(
+				"Adam", "Budi", "Chairil", "Darmawan", "Eddison", "Fakir", "Gultom", "Husain", "Iriawan", "Joseph", "Karim", "Lukman", "Malik", "Nasution", "Omar", "Purba", "Quinn", "Reharja", "Siadari", "Silalahi", "Sihombing", "Sitohang", "Tan", "Umar", "Vincent", "Wijaya", "Xan", "Yahya", "Zakaria"
+			)
 		)
+
 	);
 	private $generalMaleNames   = array();
 	private $generalFemaleNames = array();
